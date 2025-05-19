@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p156177-e1654740.adobeaemcloud.com/bin/franklin.delivery/T-Mah/nyc-xwalk-test/main"
+    url: "https://author-p156177-e1654740.adobeaemcloud.com/bin/franklin.delivery/T-Mah/nyc-xwalk/main"
     type: "markup"
     suffix: ".html"
